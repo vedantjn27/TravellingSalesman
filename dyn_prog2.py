@@ -1,5 +1,5 @@
 import dash
-from dash import dcc, html, Input, Output, State, callback
+from dash import dcc, html, Input, Output, State, callback 
 import plotly.graph_objects as go
 import numpy as np
 import time
